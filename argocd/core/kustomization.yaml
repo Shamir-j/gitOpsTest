@@ -3,5 +3,5 @@ resources:
   - rbac.yaml
   #- cert-manager.yaml
   #- nginx.yaml
-  #- metallb.yaml
+  - metallb.yaml
   #- metrics-server.yaml
